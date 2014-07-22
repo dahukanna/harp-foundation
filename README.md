@@ -9,10 +9,11 @@
 
 ## Install
 
-To install Foundation, run the following command from the root of your Harp project:
+To install Foundation, you can [download this repository](https://github.com/harp/foundation/archive/master.zip) or use the [Component](http://component.io) package manager.
 
 ```bash
-harp install foundation
+npm install -g component
+component install harp/foundation
 ```
 
 Your project will look something like this…
